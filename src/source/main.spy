@@ -3,7 +3,7 @@ i = 0;
 total_marks = 0;
 names = [None; for (x in range(number))];
 marks = [None; for (x in range(number))];
-while i < number {
+while (i < number) {
     print("i -> ", i);
     name = input("Name of Student: ");
     names[i] = name;
