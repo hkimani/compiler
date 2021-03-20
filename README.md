@@ -5,7 +5,7 @@ Course work: Implementation of a mini-compiler for a psuedo-python language
 Python 3.6+
 
 ### Directory structure:
-doc: Documentation and related files <TODO>.  
+doc: Documentation and related files.  
 src: Source code files for our mini-compiler psuedo language.  
 src/common: Reusable code.  
 src/scanner: Scanner implementation.  
