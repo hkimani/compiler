@@ -1,0 +1,4 @@
+number = int(input('Number of students: '))
+i = 0
+total_marks = 0
+# 23+=23.23=4a
