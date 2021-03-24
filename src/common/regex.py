@@ -87,7 +87,7 @@ class Regex:
     # Check operator
     def check_Op(self, string):
         check = re.search(
-            "^(\+|\+=|\-=|\-|\*|\/|=|>|<|>=|<=|&|\||%|!|\^|\(|\)|\{|\})$", string
+            "^(\+|\+=|\-=|\-|\*|\/|=|>|<|>=|<=|&|\||%|!|\^|\(|\)|\{|\|}|\,)$", string
         )
         return check
 
